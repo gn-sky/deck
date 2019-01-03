@@ -24,7 +24,6 @@ C:\gt\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.runtimeconfig.
 C:\gt\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.runtimeconfig.dev.json
 C:\gt\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.dll
 C:\gt\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.pdb
-C:\gt\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.csprojAssemblyReference.cache
 C:\gt\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.csproj.CoreCompileInputs.cache
 C:\gt\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.AssemblyInfoInputs.cache
 C:\gt\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.AssemblyInfo.cs

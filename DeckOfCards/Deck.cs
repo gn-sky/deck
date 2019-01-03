@@ -24,7 +24,7 @@ namespace DeckOfCards
 
             for (int suite = 0; suite < numberOfSuites; suite++)
             {
-                for (int face = 0; face < numberOfFaces; face++)
+                for (int face = 1; face <= numberOfFaces; face++)
                 {
                     deck[cardCreated] = new Card((Face)face, (Suite)suite);
                     cardCreated++;
